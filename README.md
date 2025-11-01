@@ -36,3 +36,5 @@ It updates automatically throughout the day and includes a peaceful notification
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/AladhanPrayerReminder.git
+
+## Built by Burhan Shahid in UC Irvine. (www.linkedin.com/in/burhanshahid75)
